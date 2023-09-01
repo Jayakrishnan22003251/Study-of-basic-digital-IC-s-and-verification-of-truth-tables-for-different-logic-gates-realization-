@@ -1,6 +1,7 @@
-
-# Name:Jayavarthan P
-# Reg No:212222100015
+```
+ Name:Jayakrishnan L B L
+ Reg No:212222230052
+```
 
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 # AIM:
@@ -82,7 +83,7 @@ Y= A⊕B
 
 # Program:
 ```
-module Verificationoflogicgatres	(a,b,y1,y2,y3,y4,y5,y6,y7,y8);
+module Verificationoflogicgatres(a,b,y1,y2,y3,y4,y5,y6,y7,y8);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7,y8;
 not(y1,a);
