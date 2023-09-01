@@ -105,7 +105,8 @@ endmodule
 ![WhatsApp Image 2023-08-18 at 09 17 00](https://github.com/JAYAVARTHAN-P/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121369281/49b4652b-2780-4110-81d9-db7d9dc0e3b2)
 
 # Output:
-![Screenshot (100)](https://github.com/JAYAVARTHAN-P/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121369281/985133a1-f89d-44e4-9295-683dc86c96b7)
+![image](https://github.com/Jayakrishnan22003251/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120232371/7e419696-f7fa-4c80-b960-08e54450507f)
+
 
 # Result:
 
